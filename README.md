@@ -9,7 +9,7 @@ Links:
 
 ## Information
 
-This project uses the OOP and Concurrent Programming Course at UMGC. Since Projects 2 and 3 do not have answer keys and requrie I do my own code, I will only upload these two. Under the copyright and policies of intellectual property for UMGC, I will only upload items that do not have an answer key. For this case, it is my project that I modifed it into java instead of using the c version which would be basically sharing the anwer key if I uploaded the c version. Read all comments in the code.
+This project uses the OOP and Concurrent Programming Course at UMGC. Since Projects 2 and 3 do not have answer keys and requrie I do my own code, I will only upload these two. Under the copyright and policies of intellectual property for UMGC, I will only upload items that do not have an answer key. Read all comments in the code.
 
 ### Textbooks
 - P. J. Deitel and H. Deitel, *Java How to Program (Early Objects), 10th ed.*, Pearson, 2015. [Online Textbook Available](https://learning.oreilly.com/library/view/javatm-how-to/9780133813036/). [Accessed: n.d.]
